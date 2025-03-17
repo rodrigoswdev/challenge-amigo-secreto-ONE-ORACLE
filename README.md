@@ -2,7 +2,7 @@
 <h1>CHALLENGE RESUELTO DEL AMIGO SECRETO</h1>
 
 <h2>Funcionamiento</h2>
-<ul>En el espacio debe ingresarse un nombre.</ul>
+<ul>PRIMERO En el espacio debe ingresarse un nombre.</ul>
 
 - Si no se ingresa nada, se enviará una alerta de correcto llenado del espacio.
 - Se llena de nombres las veces que el usuario guste, no hay limite.
