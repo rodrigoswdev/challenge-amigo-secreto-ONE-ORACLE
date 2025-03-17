@@ -10,4 +10,5 @@
 - El Amigo secreto es el seleccionado y este se mostrara en la parte inferior del campo de texto
 
 <h2>Aclaración</h2>
+
 - No se incluyeron ninguna funcionalidad además de lo solicitado en el challenge.
